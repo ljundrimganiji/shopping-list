@@ -2,3 +2,9 @@
 birnen
 bier
 leberkäse
+ -normal
+ -käse
+ -pikant
+chips
+cola 
+red bull
