@@ -3,9 +3,3 @@ birnen
 orangen
 bier
 leberkäse
- -normal
- -käse
- -pikant
-chips
-cola 
-red bull
