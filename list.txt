@@ -1,4 +1,4 @@
-litschi
+litschi 100x
 äpfel
 birnen
 orangen
