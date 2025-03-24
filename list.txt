@@ -4,6 +4,7 @@ birnen
 orangen
 drachenfrucht
 kiwi
+salat
 bier
 leberkäse
 wurst
